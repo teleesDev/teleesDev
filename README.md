@@ -1,14 +1,14 @@
-# Oi, meu nome é Guilherme. Bem vindo(a) ao meu perfil! 👋
+# Hi, my name is Guilherme. Welcome to my profile! 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilherme-gomes-arantes-teles-2ab1a622b/)
 [![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://outlook.office.com/mail/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/1027316402606051349)
 
-* 🎓 Sou estudante de Ciência da Computação na Universidade Presbiteriana Mackenzie - UPM.
-* 🚀 Sou desenvolvedor focado no ecossistema de dados e inteligência artificial. Atualmente, dedico meus estudos e projetos à construção de pipelines de dados eficientes, automações e arquiteturas avançadas de IA.
+* 🎓 Computer Science student at Universidade Presbiteriana Mackenzie - UPM.
+* 🚀 Software developer focused on the data and artificial intelligence ecosystem. Currently, I dedicate my studies and projects to building efficient data pipelines, automations, and advanced AI architectures.
 <br>
 
 
-## 🛠️ Habilidades:
+## 🛠️ Skills:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -19,21 +19,21 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-* 🗄️ Gerenciamento de banco de dados (SGBD);
-* ⚙️ Administração de banco de dados (DBA).
+* 🗄️ Database Management System (DBMS);
+* ⚙️ Database Administration (DBA).
 <br>
 
 
-## 💼 Experiências e Projetos:
-* 🤖 **Automações e RPAs:** Desenvolvimento e implementação de soluções de RPA (Robotic Process Automation) e ferramentas de automação utilizando Python e VBA. Foco na otimização de fluxos de trabalho, eliminação de processos manuais e manipulação de dados corporativos;
-* 🧬 **Pipeline Agentic RAG para a Indústria Farmacêutica (TCC):** Construção de uma arquitetura de IA baseada em agentes para consumo de APIs de notícias, persistência de dados em banco SQL e classificação inteligente de relevância utilizando métricas estatísticas (Kappa).
+## 💼 Experience and Projects:
+* 🤖 **Automations and RPAs:** Development and implementation of RPA (Robotic Process Automation) solutions and automation tools using Python and VBA. Focused on workflow optimization, eliminating manual processes, and handling corporate data;
+* 🧬 **Agentic RAG Pipeline for the Pharmaceutical Industry (Graduation Project):** Building an AI architecture based on agents to consume news APIs, persist data in a SQL database, and perform intelligent relevance classification using statistical metrics (Kappa).
 <br>
 
 
-## 📚 Estou aprendendo:
+## 📚 I am learning:
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-* ☁️ Arquitetura de dados e serviços de IA na nuvem Azure;
-* 🦜 Construção e orquestração de agentes inteligentes com LangChain;
-* 🐳 Conteinerização de aplicações e ambientes com Docker.
+* ☁️ Data architecture and AI services in the Azure cloud;
+* 🦜 Building and orchestrating intelligent agents with LangChain;
+* 🐳 Containerizing applications and environments with Docker.
